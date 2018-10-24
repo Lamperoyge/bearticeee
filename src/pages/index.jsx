@@ -254,11 +254,11 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="John Doe" />
             <AboutSub>
-              BUNA SEARA SEARA SEARA SEARAARARARARARARRA
+              I am an Arts and Design University (Cluj-Napoca, Romania) graduate, based in Chisinau, Republic of Moldova. 
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            plake makdonalids pitsa sh tat shi s mai poate de dat, am un motan, o kiska, sh o pisica, sh nush ce sa mai scriu, o sa-mi trimiti tu ce sa scriu aici dac a s vrei :D 
+          I have a passion for photography for about 6 years and 2 years by now it's my profession. I work as a product photographer and a packaging Graphic Designer in a Creative Studio from Chisinau. In my free time I love to take portraits.
           </AboutDesc>
         </Inner>
       </Content>
@@ -290,7 +290,7 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          <span> Made with Love and Boredom :) </span>
+          <span> Made with Love by 3GiR </span>
         </Footer>
       </Content>
       <Divider speed={0.1} offset={4}>
